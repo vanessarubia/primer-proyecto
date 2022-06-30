@@ -5,3 +5,7 @@
 **Daily Scrum Meeting**
 **Sprint Review Meeting**
 **Sprint Retrospective Meeting**
+###### ARTEFACTOS son todos los elementos que garantizan la transparencia y el registro de la información fundamental del proceso de Scrum.Dicho esto de ota manera,son los recursos que cimientan la productividad y la calidad de cualquier producto.
+**Pila del producto--(Product Backlog)**
+**Pila del sprint--(Sprint Backlog)**
+**Increment--(Incremento)**
